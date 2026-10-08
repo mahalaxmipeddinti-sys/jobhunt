@@ -1,0 +1,6 @@
+{
+  "name": "JobTrust AI",
+  "description": "Frontend Phase 1 foundation for JobTrust AI — discovering authentic, actively hiring job opportunities with a clean, responsive SaaS experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
